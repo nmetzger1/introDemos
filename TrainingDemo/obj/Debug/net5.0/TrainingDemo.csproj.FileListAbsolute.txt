@@ -1,0 +1,16 @@
+C:\Users\nmetzger\source\repos\TrainingDemo\TrainingDemo\bin\Debug\net5.0\TrainingDemo.exe
+C:\Users\nmetzger\source\repos\TrainingDemo\TrainingDemo\bin\Debug\net5.0\TrainingDemo.deps.json
+C:\Users\nmetzger\source\repos\TrainingDemo\TrainingDemo\bin\Debug\net5.0\TrainingDemo.runtimeconfig.json
+C:\Users\nmetzger\source\repos\TrainingDemo\TrainingDemo\bin\Debug\net5.0\TrainingDemo.runtimeconfig.dev.json
+C:\Users\nmetzger\source\repos\TrainingDemo\TrainingDemo\bin\Debug\net5.0\TrainingDemo.dll
+C:\Users\nmetzger\source\repos\TrainingDemo\TrainingDemo\bin\Debug\net5.0\TrainingDemo.pdb
+C:\Users\nmetzger\source\repos\TrainingDemo\TrainingDemo\obj\Debug\net5.0\TrainingDemo.csproj.AssemblyReference.cache
+C:\Users\nmetzger\source\repos\TrainingDemo\TrainingDemo\obj\Debug\net5.0\TrainingDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nmetzger\source\repos\TrainingDemo\TrainingDemo\obj\Debug\net5.0\TrainingDemo.AssemblyInfoInputs.cache
+C:\Users\nmetzger\source\repos\TrainingDemo\TrainingDemo\obj\Debug\net5.0\TrainingDemo.AssemblyInfo.cs
+C:\Users\nmetzger\source\repos\TrainingDemo\TrainingDemo\obj\Debug\net5.0\TrainingDemo.csproj.CoreCompileInputs.cache
+C:\Users\nmetzger\source\repos\TrainingDemo\TrainingDemo\obj\Debug\net5.0\TrainingDemo.dll
+C:\Users\nmetzger\source\repos\TrainingDemo\TrainingDemo\obj\Debug\net5.0\ref\TrainingDemo.dll
+C:\Users\nmetzger\source\repos\TrainingDemo\TrainingDemo\obj\Debug\net5.0\TrainingDemo.pdb
+C:\Users\nmetzger\source\repos\TrainingDemo\TrainingDemo\obj\Debug\net5.0\TrainingDemo.genruntimeconfig.cache
+C:\Users\nmetzger\source\repos\TrainingDemo\TrainingDemo\obj\Debug\net5.0\refint\TrainingDemo.dll

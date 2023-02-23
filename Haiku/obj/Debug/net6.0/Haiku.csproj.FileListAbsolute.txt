@@ -1,0 +1,15 @@
+C:\Users\nmetzger\source\repos\TrainingDemo\Haiku\bin\Debug\net6.0\Haiku.exe
+C:\Users\nmetzger\source\repos\TrainingDemo\Haiku\bin\Debug\net6.0\Haiku.deps.json
+C:\Users\nmetzger\source\repos\TrainingDemo\Haiku\bin\Debug\net6.0\Haiku.runtimeconfig.json
+C:\Users\nmetzger\source\repos\TrainingDemo\Haiku\bin\Debug\net6.0\Haiku.dll
+C:\Users\nmetzger\source\repos\TrainingDemo\Haiku\bin\Debug\net6.0\Haiku.pdb
+C:\Users\nmetzger\source\repos\TrainingDemo\Haiku\obj\Debug\net6.0\Haiku.csproj.AssemblyReference.cache
+C:\Users\nmetzger\source\repos\TrainingDemo\Haiku\obj\Debug\net6.0\Haiku.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nmetzger\source\repos\TrainingDemo\Haiku\obj\Debug\net6.0\Haiku.AssemblyInfoInputs.cache
+C:\Users\nmetzger\source\repos\TrainingDemo\Haiku\obj\Debug\net6.0\Haiku.AssemblyInfo.cs
+C:\Users\nmetzger\source\repos\TrainingDemo\Haiku\obj\Debug\net6.0\Haiku.csproj.CoreCompileInputs.cache
+C:\Users\nmetzger\source\repos\TrainingDemo\Haiku\obj\Debug\net6.0\Haiku.dll
+C:\Users\nmetzger\source\repos\TrainingDemo\Haiku\obj\Debug\net6.0\refint\Haiku.dll
+C:\Users\nmetzger\source\repos\TrainingDemo\Haiku\obj\Debug\net6.0\Haiku.pdb
+C:\Users\nmetzger\source\repos\TrainingDemo\Haiku\obj\Debug\net6.0\Haiku.genruntimeconfig.cache
+C:\Users\nmetzger\source\repos\TrainingDemo\Haiku\obj\Debug\net6.0\ref\Haiku.dll

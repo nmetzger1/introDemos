@@ -1,0 +1,15 @@
+C:\Users\nmetzger\source\repos\TrainingDemo\DRYProject\obj\Debug\net6.0\DRYProject.csproj.AssemblyReference.cache
+C:\Users\nmetzger\source\repos\TrainingDemo\DRYProject\obj\Debug\net6.0\DRYProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nmetzger\source\repos\TrainingDemo\DRYProject\obj\Debug\net6.0\DRYProject.AssemblyInfoInputs.cache
+C:\Users\nmetzger\source\repos\TrainingDemo\DRYProject\obj\Debug\net6.0\DRYProject.AssemblyInfo.cs
+C:\Users\nmetzger\source\repos\TrainingDemo\DRYProject\obj\Debug\net6.0\DRYProject.csproj.CoreCompileInputs.cache
+C:\Users\nmetzger\source\repos\TrainingDemo\DRYProject\bin\Debug\net6.0\DRYProject.exe
+C:\Users\nmetzger\source\repos\TrainingDemo\DRYProject\bin\Debug\net6.0\DRYProject.deps.json
+C:\Users\nmetzger\source\repos\TrainingDemo\DRYProject\bin\Debug\net6.0\DRYProject.runtimeconfig.json
+C:\Users\nmetzger\source\repos\TrainingDemo\DRYProject\bin\Debug\net6.0\DRYProject.dll
+C:\Users\nmetzger\source\repos\TrainingDemo\DRYProject\bin\Debug\net6.0\DRYProject.pdb
+C:\Users\nmetzger\source\repos\TrainingDemo\DRYProject\obj\Debug\net6.0\DRYProject.dll
+C:\Users\nmetzger\source\repos\TrainingDemo\DRYProject\obj\Debug\net6.0\refint\DRYProject.dll
+C:\Users\nmetzger\source\repos\TrainingDemo\DRYProject\obj\Debug\net6.0\DRYProject.pdb
+C:\Users\nmetzger\source\repos\TrainingDemo\DRYProject\obj\Debug\net6.0\DRYProject.genruntimeconfig.cache
+C:\Users\nmetzger\source\repos\TrainingDemo\DRYProject\obj\Debug\net6.0\ref\DRYProject.dll
